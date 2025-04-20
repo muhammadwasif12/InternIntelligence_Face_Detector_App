@@ -106,18 +106,17 @@ dependencies:
 
 ## 💻 Screenshots
 
+![Screenshot (1224)](https://github.com/user-attachments/assets/78e3ae14-1bc1-4d1c-b40e-37a0cf2190a1)
 
-![Screenshot (1224)](https://github.com/user-attachments/assets/85b43146-472d-4ad3-9d8a-3e59c9626c74)
+![Screenshot (1225)](https://github.com/user-attachments/assets/4e41b55e-45a4-4a3d-b91b-f3106b223b71)
 
-![Screenshot (1225)](https://github.com/user-attachments/assets/c72aeea8-e894-4f2c-9b25-2a41c60e9fd0)
+![Screenshot (1226)](https://github.com/user-attachments/assets/764e8c14-93fd-49ac-a2cd-3c0ef32adbf2)
 
-![Screenshot (1226)](https://github.com/user-attachments/assets/5cd35551-5fea-4449-8ffd-99dcbf861ed8)
+![Screenshot (1227)](https://github.com/user-attachments/assets/071813ed-330b-4b7c-bf95-84b54f38cb2d)
 
-[Screenshot (1227)](https://github.com/user-attachments/assets/44e54a61-0c68-44ce-aa61-b1d883622ee3)
+![Screenshot (1228)](https://github.com/user-attachments/assets/c1fece86-3f20-43eb-8dbf-8c8467e4ee86)
 
-![Screenshot (1228)](https://github.com/user-attachments/assets/b7690b08-6894-4b09-8253-2aa40d0d1e5b)
-
-![Screenshot (1229)](https://github.com/user-attachments/assets/5583d6cb-134c-4d94-bc05-a0cc54d53f2e)
+![Screenshot (1229)](https://github.com/user-attachments/assets/4bc1e449-7c1f-46e5-bc6d-e70832934590)
 
 
 ## 📘 License!
